@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Front-End Developer" />
+<img src="banner.png" width="100%" alt="Front-End Developer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musfika21&color=008000)
 
