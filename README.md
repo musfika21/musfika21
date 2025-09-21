@@ -2,7 +2,7 @@
   <img src="GitBanner.png" width="100%" alt="Front-End Developer" />
   
   <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Musfika+Iqfat;Junior+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Amazing+Web+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Musfika+Iqfat;Junior+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Amazing+Web+Experiences" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -116,16 +116,6 @@ const musfika: Developer = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=musfika21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-  
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -195,7 +185,7 @@ const musfika: Developer = {
   
   **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+collaborate+and+build+the+future!;💼+Open+for+internship+opportunities!;📧+Always+happy+to+connect!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+collaborate+and+build+the+future!;💼+Open+for+internship+opportunities!;📧+Always+happy+to+connect!" alt="Footer Typing" />
   
 </div>
 
