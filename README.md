@@ -2,17 +2,13 @@
   <img src="GitBanner.png" width="100%" alt="Front-End Developer" />
   
   <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Musfika+Iqfat;Junior+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Amazing+Web+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Musfika+Iqfat;Junior+Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Amazing+Web+Experiences" alt="Typing Animation" />
 </div>
 
 <div align="center">
   
-  <!-- Snake animation eating contributions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musfika21/musfika21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musfika21/musfika21/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musfika21/musfika21/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Animated wave separator -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn" width="100%" />
   
 </div>
 
@@ -185,7 +181,7 @@ const musfika: Developer = {
   
   **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+collaborate+and+build+the+future!;💼+Open+for+internship+opportunities!;📧+Always+happy+to+connect!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+my+repositories+if+useful!;%F0%9F%9A%80+Let's+collaborate+and+build!;%F0%9F%92%BC+Open+for+internship+opportunities!;%F0%9F%93%A7+Always+happy+to+connect!" alt="Footer Typing" />
   
 </div>
 
