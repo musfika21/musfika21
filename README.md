@@ -120,12 +120,13 @@ const musfika: Developer = {
 </div>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <!-- Project cards with custom styling -->
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -147,10 +148,7 @@ const musfika: Developer = {
 </tr>
 </table>
 
-</div>
-
----
-
+</div> -->
 ## 💬 Let's Connect & Build Something Amazing!
 
 <div align="center">
