@@ -24,7 +24,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> About Me
 
-<img align="right" alt="Female Developer" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersio.gif">
+<img align="right" alt="Female Developer" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ```typescript
 interface Developer {
