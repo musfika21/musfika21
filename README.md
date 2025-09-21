@@ -194,16 +194,11 @@ const musfika: Developer = {
   
 </div>
 
-<div align="center">
-  
-  <!-- Visitor counter with animation -->
-  <img src="https://visitcount.itsvg.in/api?id=musfika21&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  
-</div>
+
 
 <!-- Hidden easter egg for curious developers -->
-<!-- 
+
 🎉 Congratulations! You found the easter egg! 
 If you're reading this, you're probably a developer who likes to peek behind the curtain.
 Feel free to reach out - I'd love to connect with fellow curious minds!
--->
+
