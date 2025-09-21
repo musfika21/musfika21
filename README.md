@@ -34,7 +34,11 @@ interface Developer {
   skills: string[];
   currentFocus: string[];
   passions: string[];
-  contact: string;
+  contact: {
+    email: string;
+    linkedin: string;
+    whatsapp: string;
+  };
 }
 
 const musfika: Developer = {
@@ -44,7 +48,11 @@ const musfika: Developer = {
   skills: ["React.js", "Next.js", "JavaScript", "TypeScript", "Node.js"],
   currentFocus: ["Advanced React Patterns", "Full-Stack Development"],
   passions: ["Clean Code", "User Experience", "Problem Solving"],
-  contact: "musfikaiqfatmomo21@gmail.com"
+  contact: {
+    email: "musfikaiqfatmomo21@gmail.com",
+    linkedin: "linkedin.com/in/musfika-iqfat21",
+    whatsapp: "+8801777378806"
+  }
 };
 ```
 
@@ -54,6 +62,7 @@ const musfika: Developer = {
 ⚡ **Superpower:** Turning complex ideas into beautiful, functional interfaces  
 🌟 **Goal:** Becoming a full-stack wizard while maintaining frontend excellence  
 🚀 **Status:** Actively seeking opportunities to make an impact  
+📧 **Let's Connect:** [musfikaiqfatmomo21@gmail.com](mailto:musfikaiqfatmomo21@gmail.com) | [LinkedIn](https://linkedin.com/in/musfika-iqfat21) | [WhatsApp](https://wa.me/+8801777378806)  
 
 ---
 
