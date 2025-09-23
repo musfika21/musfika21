@@ -26,14 +26,29 @@
 
 <img align="right" alt="Female Developer" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+### 🎯 Professional Objective
+
+**Passionate Junior Frontend Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) with hands-on experience in **Next.js** for building modern, scalable web applications. I combine strong frontend skills with full-stack capabilities to create seamless user experiences from database to deployment.
+
+**🔥 My Tech Philosophy:** *"Great code is not just functional—it's readable, maintainable, and delightful to use."*
+
+### 💻 Developer Profile
+
 ```typescript
 interface Developer {
   name: string;
   role: string;
   location: string;
-  skills: string[];
+  primaryStack: string;
+  coreSkills: {
+    frontend: string[];
+    backend: string[];
+    database: string[];
+    frameworks: string[];
+  };
+  strengths: string[];
   currentFocus: string[];
-  passions: string[];
+  careerGoals: string[];
   contact: {
     email: string;
     linkedin: string;
@@ -43,11 +58,39 @@ interface Developer {
 
 const musfika: Developer = {
   name: "Musfika Iqfat",
-  role: "Junior Frontend Developer",
+  role: "Junior Frontend Developer | MERN Stack Developer",
   location: "Dhaka, Bangladesh 🇧🇩",
-  skills: ["React.js", "Next.js", "JavaScript", "TypeScript", "Node.js"],
-  currentFocus: ["Advanced React Patterns", "Full-Stack Development"],
-  passions: ["Clean Code", "User Experience", "Problem Solving"],
+  primaryStack: "MERN (MongoDB + Express.js + React.js + Node.js)",
+  
+  coreSkills: {
+    frontend: ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Next.js"],
+    backend: ["Node.js", "Express.js", "RESTful APIs"],
+    database: ["MongoDB", "Database Design"],
+    frameworks: ["Next.js", "React Framework Ecosystem"]
+  },
+  
+  strengths: [
+    "Component-Based Architecture",
+    "Responsive Web Design", 
+    "Full-Stack Integration",
+    "Modern JavaScript",
+    "Problem-Solving Mindset"
+  ],
+  
+  currentFocus: [
+    "Advanced React Patterns & Hooks",
+    "Next.js App Router & Server Components", 
+    "MongoDB Aggregation & Optimization",
+    "Full-Stack Project Architecture"
+  ],
+  
+  careerGoals: [
+    "Master Full-Stack Development",
+    "Contribute to Open Source Projects",
+    "Build Scalable Web Applications",
+    "Mentor Aspiring Developers"
+  ],
+  
   contact: {
     email: "musfikaiqfatmomo21@gmail.com",
     linkedin: "linkedin.com/in/musfika-iqfat21",
@@ -56,13 +99,24 @@ const musfika: Developer = {
 };
 ```
 
+### 🚀 What Drives Me
+
+**🎨 Frontend Passion:** I love crafting beautiful, intuitive user interfaces that make complex functionality feel simple and delightful.
+
+**⚙️ Full-Stack Vision:** With my MERN stack expertise, I can take projects from concept to deployment, ensuring seamless data flow from MongoDB to React components.
+
+**📚 Continuous Learner:** Technology evolves rapidly, and I'm always exploring new tools, patterns, and best practices to stay at the forefront of web development.
+
+**🤝 Collaboration Ready:** I thrive in team environments where I can contribute my technical skills while learning from experienced developers.
+
 <br>
 
-🎯 **Mission:** Creating pixel-perfect, responsive web applications that users love  
-⚡ **Superpower:** Turning complex ideas into beautiful, functional interfaces  
-🌟 **Goal:** Becoming a full-stack wizard while maintaining frontend excellence  
-🚀 **Status:** Actively seeking opportunities to make an impact  
-📧 **Let's Connect:** [musfikaiqfatmomo21@gmail.com](mailto:musfikaiqfatmomo21@gmail.com) | [LinkedIn](https://linkedin.com/in/musfika-iqfat21) | [WhatsApp](https://wa.me/+8801777378806)  
+🎯 **Mission:** Building full-stack web applications that solve real problems and create meaningful user experiences  
+⚡ **Superpower:** Bridging the gap between stunning frontend designs and robust backend functionality  
+🌟 **Current Goal:** Securing a role where I can contribute to impactful projects while growing into a senior full-stack developer  
+🚀 **Status:** Actively seeking internship/junior developer opportunities  
+💼 **Portfolio:** Showcase of MERN stack projects demonstrating end-to-end development skills  
+📧 **Let's Connect:** [musfikaiqfatmomo21@gmail.com](mailto:musfikaiqfatmomo21@gmail.com) | [LinkedIn](https://linkedin.com/in/musfika-iqfat21) | [WhatsApp](https://wa.me/+8801777378806)
 
 ---
 
@@ -72,23 +126,27 @@ const musfika: Developer = {
 
 ### 🎨 Frontend Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
+<p><strong>HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Responsive Design</strong></p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
+<p><strong>Node.js • Express.js • MongoDB • RESTful APIs • Database Design</strong></p>
 
-### 🔧 Tools & Platforms  
+### 🔧 Development Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel" />
 </p>
+<p><strong>Git/GitHub • VS Code • NPM • Deployment (Netlify/Vercel)</strong></p>
 
-### 📊 Currently Learning
+### 📊 Currently Expanding
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,python,graphql" />
+  <img src="https://skillicons.dev/icons?i=typescript,docker,aws,python" />
 </p>
+<p><strong>TypeScript • Docker • AWS • Python • DevOps Fundamentals</strong></p>
 
 </div>
 
@@ -120,35 +178,7 @@ const musfika: Developer = {
 </div>
 
 ---
-<!--
-## 🚀 Featured Projects
 
-<div align="center">
-
-<!-- Project cards with custom styling -->
-<!--
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌟 Project Alpha</h3>
-<div align="center">  
-<a href="https://github.com/musfika21/project-alpha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=musfika21&repo=project-alpha&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Project Alpha" />
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🔥 Project Beta</h3>
-<div align="center">
-<a href="https://github.com/musfika21/project-beta" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=musfika21&repo=project-beta&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Project Beta" />
-</a>
-</div>
-</td>
-</tr>
-</table>
-
-</div> -->
 ## 💬 Let's Connect & Build Something Amazing!
 
 <div align="center">
@@ -192,11 +222,8 @@ const musfika: Developer = {
   
 </div>
 
-
-
-<!-- Hidden easter egg for curious developers -->
-
+<!--
 🎉 Congratulations! You found the easter egg! 
 If you're reading this, you're probably a developer who likes to peek behind the curtain.
 Feel free to reach out - I'd love to connect with fellow curious minds!
-
+-->
